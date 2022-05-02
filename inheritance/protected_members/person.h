@@ -4,7 +4,7 @@
 class Person
 {
 
-private:
+protected:
     std ::string first_name{"Mysterious"};
     std ::string last_name{"Person"};
 
